@@ -29,7 +29,7 @@ Rode o projeto,
 Abra no navegador:
 
 ```bash
-  git clone https://github.com/seu-usuario/catalogo-livros.git
+  git clone https://github.com/Guzinm/catalogo-livros.git
   cd catalogo-livros
   npm install
   npm run dev
